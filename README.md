@@ -13,14 +13,14 @@ A instalação é bastante simples, basta seguir as instruções.***
 
 # 🛠️ Ambiente de Desenvolvimento
 
-***Python pode ser escrito em qualquer editor de texto, mas para um desenvolvimento mais eficiente, um ambiente de desenvolvimento integrado (IDE) é recomendado. Alguns populares incluem PyCharm, Jupyter Notebook e Visual Studio Code .***
+***Python pode ser escrito em qualquer editor de texto, mas para um desenvolvimento mais eficiente, um ambiente de desenvolvimento (IDE) é o melhor :). <br />Exemplos: PyCharm, Jupyter Notebook e Visual Studio Code .***
 <br />
 <br />
 
 # 🚀 Primeiros Passos com Python
 
 ***Para começar a programar em Python, você pode digitar seus comandos em um arquivo de texto com a extensão .py e executá-lo usando o interpretador Python. 
-<br /> Aqui está um exemplo de um programa Python muito simples: 
+<br /> Exemplo de um programa Python MUITO simples: 
 <br /> <br />_print("Olá, Mundo!")_***
 <br />
 <br />
